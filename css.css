@@ -1,0 +1,119 @@
+.left {
+	/*background-color: green;*/
+	float: left;
+	width:50%;
+	height: 100vh;
+	/*padding: 5px;*/
+	box-sizing: border-box;
+
+}
+
+.right {
+	background-color:  #DCDCDC;
+	float: right;
+	width: 50%;
+	height: 100vh;
+	/*padding: 5px;*/
+	box-sizing: border-box;
+}
+
+.bottom{
+	width: 20%;
+	margin-bottom: 0px;	
+	position: absolute;
+	left: 40%;
+	bottom: 0px;
+	text-align: center;
+	box-sizing: border-box;
+
+}
+
+.fas fa-chevron-down{
+    text-align: center;
+    
+    
+}
+.ppp{
+    font-size: 20px;
+    
+}
+
+.msa{
+	font-family: 'Delius Unicase', cursive;
+	font-size: 25px;
+}
+
+.list{
+	margin-left: 20%;
+	margin-right: : 20%;
+	margin-top:  10%;
+	height: 75%;
+	text-align: left;
+	padding: 5px;
+}	
+li {
+	padding: 5px;
+
+}
+.vp{
+	font-size: 15px;
+}
+
+			
+
+.box {
+	width: 85%;
+	margin-left: 15%;
+	box-shadow: 5px 10px 8px #888888;
+	height: 90%
+	margin-bottom:10%;
+}
+
+
+
+.main {
+	height: 100vh;
+	position: relative;
+	margin: auto;
+}
+
+.leftIn {
+	margin-left: 15%;
+	margin-top: 20%;
+	margin-right: 10%;
+	margin-bottom: 25%;
+	
+
+}
+ .contain{
+ 	margin-bottom: 15%;
+ 	margin-left: 15%;
+ 	margin-right: 15%;
+ 	margin-top: 10%;
+  	height:75%;
+ 	width: 70%;
+ 	text-align: center;
+ }
+ .button {
+  background-color: white;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+ /* margin: 4px 2px;*/
+
+
+}
+.button1{
+	border-radius: 15px;
+	background-color: white;
+	padding: 10px;
+
+}
+
+			
+			
